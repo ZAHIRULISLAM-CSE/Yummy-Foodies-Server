@@ -6,9 +6,6 @@ app.use(cors());
 
 const chefInfoData=require("./chefinfo.json");
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
 
 app.get('/', (req, res) => {
     res.send('Welcome To Yummy Foodies!')
