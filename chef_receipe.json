@@ -4,25 +4,27 @@
         "chef_name": "Lia",
         "experience":"3 Years",
         "chef_img": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=740&t=st=1683055293~exp=1683055893~hmac=0c42db066756089730c3beeac7d587702dc6cdc15072fb3d8481c7b313e4cb57",
-        "number_of_receipe":"3",
+        "number_of_receipe":"34",
         "likes": "11k",
         "bio":"Lia is a renowned Bangladeshi chef, known for her expertise in traditional Bangladeshi cuisine. With a passion for cooking that started at a young age, Lia has worked at several renowned restaurants in Bangladesh and won awards for her innovative recipes. Now based in bangladesh, Lia continues to introduce new dishes and techniques while staying true to the authentic flavors of Bangladeshi cuisine",
         "recipes": [
             {
                 "name":"Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
-                "ingredients":"2 Hilsa fish, cleaned and cut into pieces, 1/2 cup yellow mustard seeds, 1/2 cup white poppy seeds, 2 green chilies, chopped, 1/2 tsp turmeric powder, Salt to taste, Mustard oil for cooking",
+                "ingredients":["2 Hilsa fish", "cleaned and cut into pieces", "1/2 cup yellow mustard seeds", "1/2 cup white poppy seeds", "2 green chilies", "chopped, 1/2 tsp turmeric powder", "Salt to taste", "Mustard oil for cooking"],
                 "cooking_method":"Hilsa Fish in Mustard Sauce: Shorshe Ilish is a traditional Bangladeshi fish recipe that is made with Hilsa fish, a popular fish in the country. The fish is cooked in a sauce made from yellow mustard seeds, white poppy seeds, and green chilies. To make shorshe ilish, the fish is marinated with turmeric and salt, then pan-fried until golden brown. The sauce is then made by grinding yellow mustard seeds, white poppy seeds, and green chilies with water. The sauce is cooked with mustard oil and water, then the fried fish is added and cooked until the sauce thickens",
                 "rating":"4.8"
             },
             {
                 "name":"Chingri Malai Curry (Prawn in Coconut Milk Curry) ",
-                "ingredients":"500g prawns, cleaned and deveined, 1 cup coconut milk, 1 onion, chopped, 2 green chilies, chopped, 1 tsp ginger paste, 1 tsp garlic paste, 1 tsp cumin powder",
+                "ingredients":[  "500g prawns, cleaned and deveined",  "1 cup coconut milk",  "1 onion, chopped",  "2 green chilies, chopped",  "1 tsp ginger paste",  "1 tsp garlic paste",  "1 tsp cumin powder"]
+                ,
                 "cooking_method":"Prawn in Coconut Milk Curry: Chingri Malai Curry is a popular Bangladeshi curry that is made with prawns and coconut milk. To make the curry, the prawns are first marinated in turmeric and salt. Then, they are cooked in a sauce made from coconut milk, onion, green chilies, ginger paste, garlic paste, and cumin powder. The curry is then simmered until the prawns are cooked through and the sauce thickens",
                 "rating":"4.7"
             },
             {
                 "name":"Pitha (Steamed Rice Cakes)",
-                "ingredients":"1 cup rice flour, 1 cup water, 1 cup coconut milk, 1/2 cup sugar, 1/2 tsp cardamom powder, Oil for frying",
+                "ingredients":[  "1 cup rice flour",  "1 cup water",  "1 cup coconut milk",  "1/2 cup sugar",  "1/2 tsp cardamom powder",  "Oil for frying"]
+                ,
                 "cooking_method":"Pitha is a popular Bangladeshi snack that is made from rice flour, coconut milk, and sugar. To make pitha, a batter is prepared by mixing rice flour, water, and coconut milk. The batter is then flavored with cardamom powder and sugar. The mixture is steamed in small cake molds until cooked through. Finally, the steamed cakes are fried until golden brown",
                 "rating":"4.5"
             }
@@ -33,25 +35,28 @@
         "chef_name": "Mehedi Hasan",
         "experience":"2 Years",
         "chef_img": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683054869~exp=1683055469~hmac=d95921249239033ca66b11a21b2d5352db57cbd4992b71f435b2ff68b6dafa39",
-        "number_of_receipe":"3",
+        "number_of_receipe":"42",
         "likes": "15k",
         "bio":"Mehedi Hasan is a talented Bangladeshi chef known for hisinnovative fusion cuisine. With a passion for blending traditional Bangladeshi flavors with those of other cultures, Mehedi Hasan has gained a reputation for creating exciting and unique dishes. As well as running his own restaurant, Mehedi Hasan is a mentor and teacher, sharing his skills with aspiring chefs and promoting Bangladeshi cuisine on a global stage",
         "recipes": [
             {
                 "name":"Bhuna Khichuri (Spiced Lentil and Rice Dish)",
-                "ingredients":"1 cup rice, 1 cup split red lentils, 2 tbsp ghee, 1 tsp cumin seeds, 2 bay leaves, 1 cinnamon stick, 3 cloves, 2 onions, chopped, 2 tsp ginger paste, 2 tsp garlic paste, 2 green chilies, chopped, 2 tomatoes, chopped",
+                "ingredients":[  "1 cup rice",  "1 cup split red lentils",  "2 tbsp ghee",  "1 tsp cumin seeds",  "2 bay leaves",  "1 cinnamon stick",  "3 cloves",  "2 onions, chopped",  "2 tsp ginger paste",  "2 tsp garlic paste",  "2 green chilies, chopped",  "2 tomatoes, chopped"]
+                ,
                 "cooking_method":"Bhuna Khichuri is a popular Bangladeshi comfort food that is made with lentils and rice. To make Bhuna Khichuri, the lentils and rice are first washed and soaked. Then, they are cooked in a pot with ghee, cumin seeds, bay leaves, cinnamon stick, and cloves. Onions, ginger, garlic, green chilies, and tomatoes are added and sautéed until the mixture is fragrant. Finally, the cooked lentils and rice are added to the pot and mixed with the onion mixture",
                 "rating":"4.4"
             },
             {
                 "name":"Shatkora Beef Curry  ( Beef Curry with Citrus Fruit) ",
-                "ingredients":"500g beef, cut into cubes, 1 shatkora fruit, sliced, 1 onion, chopped, 2 tsp ginger paste, 2 tsp garlic paste, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp red chili powder, Salt to taste, Oil for cooking",
+                "ingredients":[  "500g beef, cut into cubes",  "1 shatkora fruit, sliced",  "1 onion, chopped",  "2 tsp ginger paste",  "2 tsp garlic paste",  "1 tsp cumin powder",  "1 tsp coriander powder",  "1 tsp red chili powder",  "Salt to taste",  "Oil for cooking"]
+                ,
                 "cooking_method":" Beef Curry with Citrus Fruit: Shatkora Beef Curry is a flavorful Bangladeshi curry made with beef and shatkora, a citrus fruit found in Bangladesh. To make the curry, beef is marinated with turmeric and salt, then cooked in a pot with oil and onions. The shatkora fruit is added, along with ginger, garlic, cumin, coriander, and red chili powder. The mixture is simmered until the beef is tender and the sauce has thickened",
                 "rating":"4.9"
             },
             {
                 "name":"Chapor Ghonto (Mixed Vegetable Curry with Dal Patties)",
-                "ingredients":"1 cup chana dal, soaked, 1 tsp cumin seeds, 2 green chilies, 2 potatoes, diced, 1 eggplant, diced, 1/2 cup pumpkin, diced, 1 onion, chopped, 1 tsp ginger paste, 1 tomato, chopped, 1 tsp cumin powder, 1 tsp garam masala, Oil for cooking",
+                "ingredients":[  "1 cup chana dal, soaked",  "1 tsp cumin seeds",  "2 green chilies",  "2 potatoes, diced",  "1 eggplant, diced",  "1/2 cup pumpkin, diced",  "1 onion, chopped",  "1 tsp ginger paste",  "1 tomato, chopped",  "1 tsp cumin powder",  "1 tsp garam masala",  "Oil for cooking"]
+                ,
                 "cooking_method":" Chapor Ghonto is a popular Bangladeshi mixed vegetable curry made with dal patties. To make the curry, the dal patties are first made by grinding soaked chana dal, cumin seeds, and green chilies. The mixture is formed into small patties and fried until golden brown. Vegetables such as potatoes, eggplant, and pumpkin are then sautéed in oil with onions and ginger. The dal patties are added to the vegetable mixture, along with tomatoes, cumin powder, and garam masala. The mixture is cooked until the vegetables are tender and the sauce has thickened",
                 "rating":"4.5"
             }
@@ -62,25 +67,28 @@
         "chef_name": "Sharuz Riyad",
         "experience":"4 Years",
         "chef_img": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=740&t=st=1683059926~exp=1683060526~hmac=90ff1b39edcb694a128fc2129b718742fcecb9c4f3276dbdd432733ffd2e6335",
-        "number_of_receipe":"3",
+        "number_of_receipe":"35",
         "likes": "8k",
         "bio":"Sharuz Riyad is a Bangladeshi chef renowned for his expertise in seafood cuisine. Hailing from the coastal city of Cox's Bazar, Sharuz Riyad has a deep appreciation for fresh seafood and is committed to using sustainable, locally sourced ingredients. After gaining experience at several seafood restaurants in Bangladesh, Sharuz Riyad moved to best 5 star where he gained international acclaim for his visually stunning and delicious seafood dishes",
         "recipes": [
             {
                 "name":"Aloo Posto (Potatoes in Poppy Seed Paste)",
-                "ingredients":"Potatoes, oil, onion, poppy seed paste, green chilies, salt, turmeric, and steamed rice",
+                "ingredients":[  "Potatoes",  "Oil",  "Onion",  "Poppy seed paste",  "Green chilies",  "Salt",  "Turmeric",  "Steamed rice"]
+                ,
                 "cooking_method":": First, peel and cube the potatoes and boil them until they are tender. In a separate pan, heat oil and fry onion until it's soft. Add poppy seed paste, green chilies, salt, and turmeric to the pan and cook for a few minutes. Add the boiled potatoes to the pan and cook for a few more minutes until the potatoes are coated with the poppy seed paste. Serve hot with steamed rice",
                 "rating":"4.5"
             },
             {
                 "name":"Luchi (Fried Flatbread)",
-                "ingredients":" Flour, salt, oil, warm water, and oil for frying",
+                "ingredients":[  "Flour",  "Salt",  "Oil",  "Warm water",  "Oil for frying"]
+                ,
                 "cooking_method":"In a large mixing bowl, combine flour, salt, and oil. Gradually add warm water and knead the dough until it's smooth and pliable. Divide the dough into small balls and roll them out into circles. Heat oil in a pan and fry the rolled out dough until they are puffed up and golden brown. Serve hot with potato curry or chana masala",
                 "rating":"4.3"
             },
             {
                 "name":"Mishti Doi (Sweet Yogurt)",
-                "ingredients":" Yogurt, condensed milk, sugar,coconut,cow milk",
+                "ingredients":[  "Yogurt",  "Condensed milk",  "Sugar",  "Coconut",  "Cow milk"]
+                ,
                 "cooking_method":"In a large mixing bowl, whisk together yogurt, condensed milk, and sugar until smooth. Divide the mixture into small earthenware pots or any oven-proof container. Cover the pots with foil and place them in a warm place to ferment for about 8 hours or until they are set. Serve chilled as a dessert",
                 "rating":"3.9"
             }
@@ -91,25 +99,28 @@
         "chef_name": "Rifat Hossen",
         "experience":"1 Years",
         "chef_img": "https://img.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_156779-277.jpg?w=740",
-        "number_of_receipe":"3",
+        "number_of_receipe":"52",
         "likes": "11k",
         "bio":"Rifat Hossen is a leading Bangladeshi chef in the vegetarian and vegan food movement. With a focus on promoting healthy and sustainable eating habits, Rifat Hossen has gained a reputation for innovative and delicious vegetarian and vegan cuisine. After working at several vegetarian and vegan restaurants in Bangladesh, Rifat Hossen opened his own restaurant, which quickly became popular for its flavorful and creative dishes.",
         "recipes": [
             {
                 "name":"Begun Bhaja (Fried Eggplant)",
-                "ingredients":" Eggplant, salt, turmeric, cumin powder, chili powder, and oil",
+                "ingredients":[  "Eggplant",  "Salt",  "Turmeric",  "Cumin powder",  "Chili powder",  "Oil"]
+                ,
                 "cooking_method":"Cut the eggplants into thin slices and sprinkle salt over them. Let them rest for 10 minutes to remove excess water. In a bowl, mix turmeric, cumin powder, chili powder, and salt, and coat the eggplant slices in the mixture. Heat oil in a pan and fry the eggplant slices until they are crispy and golden brown. Serve hot with steamed rice",
                 "rating":"4.1"
             },
             {
                 "name":"Chingri Malai Curry (Prawn Coconut Curry)",
-                "ingredients":"Prawns, onion, ginger, garlic, green chilies, salt, turmeric, water, coconut milk, garam masala, coriander leaves, and steamed rice",
+                "ingredients":[  "Prawns",  "Onion",  "Ginger",  "Garlic",  "Green chilies",  "Salt",  "Turmeric",  "Water",  "Coconut milk",  "Garam masala",  "Coriander leaves",  "Steamed rice"]
+                ,
                 "cooking_method":"In a pan, heat oil and fry onion until it's soft. Add ginger, garlic, and green chilies, and cook for a few more minutes. Add prawns, salt, turmeric, and water, and cook until the prawns are cooked through. Add coconut milk, garam masala, and coriander leaves to the pan and simmer for a few more minutes until the gravy thickens. Serve hot with steamed rice",
                 "rating":"4.7"
             },
             {
                 "name":"Mishti Pulao (Sweet Pilaf)",
-                "ingredients":" Rice, oil, onion, cinnamon, cardamom, cloves, sugar, raisins, water, and meat or vegetable curry",
+                "ingredients":[  "Rice",  "Oil",  "Onion",  "Cinnamon",  "Cardamom",  "Cloves",  "Sugar",  "Raisins",  "Water",  "Meat or vegetable curry"]
+                ,
                 "cooking_method":"Wash and soak the rice for 20 minutes. In a pan, heat oil and fry onion until it's soft. Add whole spices like cinnamon, cardamom, and cloves, and fry for a few more minutes. Add the soaked rice, sugar, raisins, and water to the pan and bring to a boil. Lower the heat and let it simmer until the water is absorbed and the rice is cooked through. Serve hot with any meat or vegetable curry",
                 "rating":"4.7"
             }
@@ -120,25 +131,28 @@
         "chef_name": "Sadin Shanto",
         "experience":"6 Months",
         "chef_img": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=740&t=st=1683055134~exp=1683055734~hmac=48337efb5bf027321905f11bf53db045e2e4a7049ceb48e5cabf784749b4960c",
-        "number_of_receipe":"3",
+        "number_of_receipe":"77",
         "likes": "5k",
         "bio":"Sadin Shanto is a celebrated Bangladeshi pastry chef known for his delectable desserts. After gaining experience at several pastry shops in Bangladesh, Sadin Shanto opened his/her own bakery, which features creative and unique dessert offerings that incorporate traditional Bangladeshi flavors and ingredients. With a passion for using high-quality ingredients, Sadin Shanto's desserts have earned  a loyal following among dessert enthusiasts.",
         "recipes": [
             {
                 "name":"Murgir Jhol (Chicken Curry)",
-                "ingredients":"Chicken, onion, ginger, garlic, green chilies, salt, turmeric, cumin powder, potatoes, tomatoes, garam masala, and steamed rice",
+                "ingredients":[  "Chicken",  "Onion",  "Ginger",  "Garlic",  "Green chilies",  "Salt",  "Turmeric",  "Cumin powder",  "Potatoes",  "Tomatoes",  "Garam masala",  "Steamed rice"]
+                ,
                 "cooking_method":":In a pan, heat oil and fry onion until it's soft. Add ginger, garlic, and green chilies, and cook for a few more minutes. Add chicken, salt, turmeric, cumin powder, and water, and cook until the chicken is cooked through. Add diced potatoes, sliced tomatoes, and garam masala to the pan and simmer for a few more minutes until the gravy thickens. Serve hot with steamed rice",
                 "rating":"4.3"
             },
             {
                 "name":"Shorshe Ilish (Hilsa Fish in Mustard Sauce)",
-                "ingredients":"Hilsa fish, mustard seeds, green chilies, turmeric powder, mustard oil, salt, and steamed rice",
+                "ingredients":[  "Hilsa fish",  "Mustard seeds",  "Green chilies",  "Turmeric powder",  "Mustard oil",  "Salt",  "Steamed rice"]
+                ,
                 "cooking_method":" Make a paste of mustard seeds, green chilies, and turmeric powder. Marinate the fish in the paste for 30 minutes. In a pan, heat mustard oil and fry the fish until it's golden brown. Add water and salt to the pan and let it cook for a few more minutes. Serve hot with steamed rice",
                 "rating":"5.0"
             },
             {
                 "name":"Dhokar Dalna (Bengal Gram Fritters in Gravy)",
-                "ingredients":"Chana dal, salt, turmeric, cumin powder, red chili powder, oil, onion, ginger, garlic, tomato, water, coriander powder, garam masala, and steamed rice",
+                "ingredients":[  "Chana dal",  "Salt",  "Turmeric",  "Cumin powder",  "Red chili powder",  "Oil",  "Onion",  "Ginger",  "Garlic",  "Tomato",  "Water",  "Coriander powder",  "Garam masala",  "Steamed rice"]
+                ,
                 "cooking_method":": Soak chana dal for 4-5 hours and grind it into a fine paste. Add salt, turmeric, cumin powder, and red chili powder to the paste and mix well. Shape the mixture into small cylindrical fritters and steam them for 10-15 minutes. In a pan, heat oil and fry the fritters until they're golden brown. In another pan, heat oil and fry onion until it's soft. Add ginger, garlic, and tomato, and cook for a few more minutes. Add water, salt, turmeric, cumin powder, coriander powder, and garam masala to the pan and bring it to a boil. Add the fritters to the pan and let it simmer for a few more minutes until the gravy thickens. Serve hot with steamed rice",
                 "rating":"3.6"
             }
@@ -149,25 +163,28 @@
         "chef_name": "Rakibul Islam",
         "experience":"1.5 Years",
         "chef_img": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683055221~exp=1683055821~hmac=9158345875dc1941d101031538d2b2fb2d0f1fe46df80c9bc217a686335db49a",
-        "number_of_receipe":"3",
+        "number_of_receipe":"75",
         "likes": "16k",
         "bio":"Rakibul Islam is a talented Bangladeshi chef who specializes in traditional Bengali cuisine. After gaining experience at several top restaurants in Bangladesh, Rakibul Islam opened his own restaurant, which has become popular for its delicious and authentic Bengali dishes. With a deep knowledge of local ingredients and cooking techniques, Rakibul Islam is a leading figure in the promotion and preservation of Bengali cuisine.",
         "recipes": [
             {
                 "name":"Chitol Maacher Kalia",
-                "ingredients":"chitol fish, turmeric, red chili powder, salt, mustard oil, onions, garlic, ginger, tomatoes, cumin powder, coriander powder, and garam masala",
+                "ingredients":[  "Chitol fish",  "Turmeric",  "Red chili powder",  "Salt",  "Mustard oil",  "Onions",  "Garlic",  "Ginger",  "Tomatoes",  "Cumin powder",  "Coriander powder",  "Garam masala"]
+                ,
                 "cooking_method":"This Bengali fish curry is cooked with chitol fish, turmeric, red chili powder, salt, mustard oil, onions, garlic, ginger, tomatoes, cumin powder, coriander powder, and garam masala",
                 "rating":"4.0"
             },
             {
                 "name":"Beef Bhuna",
-                "ingredients":"beef, onion, garlic, ginger, cumin powder, coriander powder, chili powder, turmeric, garam masala, salt, oil, and water",
+                "ingredients":[  "Beef",  "Onion",  "Garlic",  "Ginger",  "Cumin powder",  "Coriander powder",  "Chili powder",  "Turmeric",  "Garam masala",  "Salt",  "Oil",  "Water"]
+                ,
                 "cooking_method":"This spicy beef curry is cooked with beef, onion, garlic, ginger, cumin powder, coriander powder, chili powder, turmeric, garam masala, salt, oil, and water. It is slowly simmered until the beef is tender and the spices have infused into the meat",
                 "rating":"4.5"
             },
             {
                 "name":"Doi Fuchka ",
-                "ingredients":"chickpeas, potatoes, tamarind paste, green chilies, red chili powder, cumin powder, coriander powder, chat masala, yogurt, and fuchka shells",
+                "ingredients":[  "Chickpeas",  "Potatoes",  "Tamarind paste",  "Green chilies",  "Red chili powder",  "Cumin powder",  "Coriander powder",  "Chat masala",  "Yogurt",  "Fuchka shells"]
+                ,
                 "cooking_method":" This popular street food from Bangladesh is made by filling fuchka shells with a mixture of chickpeas, potatoes, tamarind paste, green chilies, red chili powder, cumin powder, coriander powder, chat masala, and yogurt. It is then drizzled with more tamarind paste and garnished with cilantro before serving",
                 "rating":"4.2"
             }

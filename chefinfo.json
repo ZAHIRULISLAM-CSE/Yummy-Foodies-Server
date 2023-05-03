@@ -4,7 +4,7 @@
         "chef_name": "Lia",
         "experience":"3 Years",
         "chef_img": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=740&t=st=1683055293~exp=1683055893~hmac=0c42db066756089730c3beeac7d587702dc6cdc15072fb3d8481c7b313e4cb57",
-        "number_of_receipe":"3",
+        "number_of_receipe":"34",
         "likes": "11k"
     },
     {
@@ -12,7 +12,7 @@
         "chef_name": "Mehedi Hasan",
         "experience":"2 Years",
         "chef_img": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683054869~exp=1683055469~hmac=d95921249239033ca66b11a21b2d5352db57cbd4992b71f435b2ff68b6dafa39",
-        "number_of_receipe":"3",
+        "number_of_receipe":"42",
         "likes": "15k"
     },
     {
@@ -20,7 +20,7 @@
         "chef_name": "Sharuz Riyad",
         "experience":"4 Years",
         "chef_img": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=740&t=st=1683059926~exp=1683060526~hmac=90ff1b39edcb694a128fc2129b718742fcecb9c4f3276dbdd432733ffd2e6335",
-        "number_of_receipe":"3",
+        "number_of_receipe":"35",
         "likes": "8k"
     },
     {
@@ -28,7 +28,7 @@
         "chef_name": "Rifat Hossen",
         "experience":"1 Years",
         "chef_img": "https://img.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_156779-277.jpg?w=740",
-        "number_of_receipe":"3",
+        "number_of_receipe":"52",
         "likes": "11k"
     },
     {
@@ -36,7 +36,7 @@
         "chef_name": "Sadin Shanto",
         "experience":"6 Months",
         "chef_img": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=740&t=st=1683055134~exp=1683055734~hmac=48337efb5bf027321905f11bf53db045e2e4a7049ceb48e5cabf784749b4960c",
-        "number_of_receipe":"3",
+        "number_of_receipe":"77",
         "likes": "5k"
     },
     {
@@ -44,7 +44,7 @@
         "chef_name": "Rakibul Islam",
         "experience":"1.5 Years",
         "chef_img": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683055221~exp=1683055821~hmac=9158345875dc1941d101031538d2b2fb2d0f1fe46df80c9bc217a686335db49a",
-        "number_of_receipe":"3",
+        "number_of_receipe":"75",
         "likes": "16k"
     }
 ]
